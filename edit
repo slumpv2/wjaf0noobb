@@ -5,7 +5,7 @@ local ainnfdfs = asdasdad.Load("Weirdo Hub;")
 local WGTAGAGAYAYAY = ainnfdfs.AddPage("Silent Aim")
 WGTAGAGAYAYAY.AddLabel("Don't Change The Prediction Unless You Know What You Are Doing!")
 WGTAGAGAYAYAY.AddButton("Silent Aim", function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/slumpv2/CommunitySilentAimFixed/main/V2"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/progamergamerpro120414151616124/AAJFJAJFAG/main/AFWAFGAGWAHAW"))()
 end)
 
 local asdasdausduashd = ainnfdfs.AddPage("Player")
