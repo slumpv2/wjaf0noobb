@@ -8,6 +8,11 @@ WGTAGAGAYAYAY.AddButton("Silent Aim ( OG )", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/progamergamerpro120414151616124/proscamar/main/whymeanthoso"))()
 end)
 
+local WGTAGAGAYAYAY = ainnfdfs.AddPage("ESP")
+WGTAGAGAYAYAY.AddLabel("ESP Information!")
+WGTAGAGAYAYAY.AddButton("Esp UI", function()
+	
+end)
 
 local asdasdausduashd = ainnfdfs.AddPage("Player")
 
