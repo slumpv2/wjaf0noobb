@@ -3,7 +3,7 @@ local asdasdad = loadstring(game:HttpGet("https://raw.githubusercontent.com/pooo
 local ainnfdfs = asdasdad.Load("Weirdo Hub;")
 
 local WGTAGAGAYAYAY = ainnfdfs.AddPage("Silent Aim")
-WGTAGAGAYAYAY.AddLabel("Og Invis Silentaim")
+WGTAGAGAYAYAY.AddLabel("Silent Aim Information!")
 WGTAGAGAYAYAY.AddButton("Silent Aim", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/progamergamerpro120414151616124/proscamar/main/whymeanthoso"))()
 end)
