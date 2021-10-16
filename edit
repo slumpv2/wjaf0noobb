@@ -4,7 +4,7 @@ local ainnfdfs = asdasdad.Load("Weirdo Hub;")
 
 local WGTAGAGAYAYAY = ainnfdfs.AddPage("Silent Aim")
 WGTAGAGAYAYAY.AddLabel("Og Invis Silentaim")
-WGTAGAGAYAYAY.AddButton("Silent Aim UI", function()
+WGTAGAGAYAYAY.AddButton("Silent Aim", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/progamergamerpro120414151616124/proscamar/main/whymeanthoso"))()
 end)
 
