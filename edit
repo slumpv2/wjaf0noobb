@@ -3,10 +3,11 @@ local asdasdad = loadstring(game:HttpGet("https://raw.githubusercontent.com/pooo
 local ainnfdfs = asdasdad.Load("Weirdo Hub;")
 
 local WGTAGAGAYAYAY = ainnfdfs.AddPage("Silent Aim")
-WGTAGAGAYAYAY.AddLabel("Don't Change The Prediction Unless You Know What You Are Doing!")
-WGTAGAGAYAYAY.AddButton("Silent Aim", function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/progamergamerpro120414151616124/AAJFJAJFAG/main/AFWAFGAGWAHAW"))()
+WGTAGAGAYAYAY.AddLabel("Og Invis Silentaim")
+WGTAGAGAYAYAY.AddButton("Silent Aim UI", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/progamergamerpro120414151616124/proscamar/main/whymeanthoso"))()
 end)
+
 
 local asdasdausduashd = ainnfdfs.AddPage("Player")
 
